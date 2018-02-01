@@ -1,3 +1,3 @@
-variable =  1
+_variable =  1
 
-print(variable)
+print(_variable)
