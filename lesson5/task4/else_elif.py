@@ -17,12 +17,14 @@ else:
 #solo if else
 if x < 0:
     print('x < 0')
-if x == 0:
-    print('x is zero')
-if x == 1:
-    print('x == 1')
 else:
-    print('Ninguno fue True')
+    if x == 0:
+        print('x is zero')
+    else:
+        if x == 1:
+                print('x == 1')
+        else:
+                print('Ninguno fue True')
 
 
 
