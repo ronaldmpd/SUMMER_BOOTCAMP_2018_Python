@@ -1,4 +1,6 @@
 import os
+##variables de entorno
+
 class Coneccion:
 
     def __init__(self):
