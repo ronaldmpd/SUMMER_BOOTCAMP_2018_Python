@@ -3,3 +3,5 @@
 *.iml
 *.iws
  
+__pycache__
+env
